@@ -132,16 +132,7 @@ const Timeline = () => {
                     <div className="text-4xl font-bold text-royal-gold mb-3">{event.year}</div>
                     <p className="text-gray-600 leading-relaxed mb-4">{event.description}</p>
                     
-                                         {/* Historical Images */}
-                     {event.year === '1953' && (
-                       <div className="mt-4">
-                         <img 
-                           src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Queen_Elizabeth_II_coronation_portrait.jpg/800px-Queen_Elizabeth_II_coronation_portrait.jpg"
-                           alt="Coroação da Rainha Elizabeth II - Retrato em perfil com a Coroa Imperial do Estado"
-                           className="w-full h-48 object-cover rounded-lg"
-                         />
-                       </div>
-                     )}
+                    
                                          {event.year === '1977' && (
                        <div className="mt-4">
                          <img 
