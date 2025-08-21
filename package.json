@@ -1,0 +1,28 @@
+{
+  "name": "rainha-elizabeth-site",
+  "version": "1.0.0",
+  "description": "Site informativo sobre a Rainha Elizabeth II",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  },
+  "keywords": ["rainha", "elizabeth", "react", "tailwind"],
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+} 

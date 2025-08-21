@@ -1,0 +1,54 @@
+{
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Queen_Elizabeth_II_in_March_2020.jpg/800px-Queen_Elizabeth_II_in_March_2020.jpg",
+      "alt": "Rainha Elizabeth II",
+      "description": "Retrato oficial da Rainha Elizabeth II em março de 2020",
+      "source": "Wikimedia Commons",
+      "year": "2020"
+    },
+    "coronation": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Queen_Elizabeth_II_coronation_portrait.jpg/800px-Queen_Elizabeth_II_coronation_portrait.jpg",
+      "alt": "Coroação da Rainha Elizabeth II",
+      "description": "Retrato oficial da coroação da Rainha Elizabeth II em 1953",
+      "source": "Wikimedia Commons",
+      "year": "1953"
+    },
+    "silver_jubilee": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Queen_Elizabeth_II_Jubilee_1977.jpg/800px-Queen_Elizabeth_II_Jubilee_1977.jpg",
+      "alt": "Jubileu de Prata 1977",
+      "description": "Rainha Elizabeth II durante o Jubileu de Prata em 1977",
+      "source": "Wikimedia Commons",
+      "year": "1977"
+    },
+    "diamond_jubilee": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Queen_Elizabeth_II_2012.jpg/800px-Queen_Elizabeth_II_2012.jpg",
+      "alt": "Jubileu de Diamante 2012",
+      "description": "Rainha Elizabeth II durante o Jubileu de Diamante em 2012",
+      "source": "Wikimedia Commons",
+      "year": "2012"
+    },
+    "family": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Queen_Elizabeth_II_and_Prince_Philip_2017.jpg/800px-Queen_Elizabeth_II_and_Prince_Philip_2017.jpg",
+      "alt": "Rainha Elizabeth II e Príncipe Philip",
+      "description": "Rainha Elizabeth II e Príncipe Philip, Duque de Edimburgo em 2017",
+      "source": "Wikimedia Commons",
+      "year": "2017"
+    },
+    "platinum_jubilee": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Queen_Elizabeth_II_Platinum_Jubilee_2022.jpg/800px-Queen_Elizabeth_II_Platinum_Jubilee_2022.jpg",
+      "alt": "Rainha Elizabeth II - Jubileu de Platina 2022",
+      "description": "Rainha Elizabeth II durante seu Jubileu de Platina - 70 anos de reinado",
+      "source": "Wikimedia Commons",
+      "year": "2022"
+    }
+  },
+  "colorScheme": {
+    "primary": "royal-red",
+    "secondary": "royal-gold",
+    "accent": "royal-dark-red",
+    "highlight": "royal-light-gold",
+    "background": "cream",
+    "dark": "navy"
+  }
+} 
