@@ -24,7 +24,7 @@ const Hero = () => {
             Rainha Elizabeth II
           </h1>
           
-                     {/* Subtitle */}
+                    {/* Subtitle */}
            <p className="text-xl md:text-2xl mb-8 text-amber-200 max-w-4xl mx-auto leading-relaxed">
              "Declaro diante de vocês que toda a minha vida, seja longa ou curta, 
              será dedicada ao seu serviço e ao serviço de nossa grande família imperial."

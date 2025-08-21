@@ -1,4 +1,4 @@
-# 🌟 Site Tribute à Rainha Elizabeth II
+# 🌟 Site Tributo à Rainha Elizabeth II
 
 Um site informativo e elegante dedicado à vida, conquistas e legado da Rainha Elizabeth II, desenvolvido com React e Tailwind CSS.
 

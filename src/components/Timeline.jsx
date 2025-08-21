@@ -119,7 +119,7 @@ const Timeline = () => {
                 index % 2 === 0 ? 'md:flex-row' : 'md:flex-row-reverse'
               } flex-col md:space-x-8`}>
                 
-                                 {/* Timeline Dot - Hidden on mobile */}
+                 {/* Timeline Dot - Hidden on mobile */}
                  <div className="absolute left-1/2 transform -translate-x-1/2 w-6 h-6 bg-royal-gold rounded-full border-4 border-white shadow-lg hidden lg:block"></div>
 
                 {/* Content */}
@@ -131,10 +131,6 @@ const Timeline = () => {
                     </div>
                     <div className="text-4xl font-bold text-royal-gold mb-3">{event.year}</div>
                     <p className="text-gray-600 leading-relaxed mb-4">{event.description}</p>
-                    
-                    
-                    
-                    
                   </div>
                 </div>
 
