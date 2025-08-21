@@ -110,8 +110,8 @@ const Timeline = () => {
         </p>
 
         <div className="relative">
-          {/* Timeline Line */}
-          <div className="absolute left-1/2 transform -translate-x-1/2 w-1 bg-royal-gold h-full hidden md:block"></div>
+          {/* Timeline Line - Hidden on mobile */}
+          <div className="absolute left-1/2 transform -translate-x-1/2 w-1 bg-royal-gold h-full hidden lg:block"></div>
 
           <div className="space-y-12">
             {timelineEvents.map((event, index) => (
@@ -119,8 +119,8 @@ const Timeline = () => {
                 index % 2 === 0 ? 'md:flex-row' : 'md:flex-row-reverse'
               } flex-col md:space-x-8`}>
                 
-                {/* Timeline Dot */}
-                <div className="absolute left-1/2 transform -translate-x-1/2 w-6 h-6 bg-royal-gold rounded-full border-4 border-white shadow-lg hidden md:block"></div>
+                                 {/* Timeline Dot - Hidden on mobile */}
+                 <div className="absolute left-1/2 transform -translate-x-1/2 w-6 h-6 bg-royal-gold rounded-full border-4 border-white shadow-lg hidden lg:block"></div>
 
                 {/* Content */}
                 <div className={`w-full md:w-5/12 ${index % 2 === 0 ? 'md:text-right' : 'md:text-left'} text-center md:text-left`}>
