@@ -71,7 +71,7 @@ const Hero = () => {
       </div>
 
       {/* Decorative Elements */}
-      <div className="absolute bottom-0 left-0 w-full h-16 bg-gradient-to-t from-cream to-transparent"></div>
+      
     </section>
   )
 }
