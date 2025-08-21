@@ -104,19 +104,7 @@ const Family = () => {
           que continua seu legado de serviço e dedicação ao povo britânico.
         </p>
 
-                 {/* Royal Family Portrait */}
-         <div className="mb-16 text-center">
-           <div className="max-w-4xl mx-auto">
-                                                       <img 
-                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Queen_Elizabeth_II_and_Prince_Philip_2017.jpg/800px-Queen_Elizabeth_II_and_Prince_Philip_2017.jpg"
-                 alt="Família Real Britânica - Rainha Elizabeth II e Príncipe Philip"
-                 className="w-full h-96 object-cover rounded-2xl shadow-2xl border-4 border-royal-gold"
-               />
-                           <p className="text-lg text-gray-600 mt-4 italic">
-                Rainha Elizabeth II e Príncipe Philip, Duque de Edimburgo (2017)
-              </p>
-           </div>
-         </div>
+                 
 
         {/* Family Members Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">

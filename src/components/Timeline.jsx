@@ -133,24 +133,8 @@ const Timeline = () => {
                     <p className="text-gray-600 leading-relaxed mb-4">{event.description}</p>
                     
                     
-                                         {event.year === '1977' && (
-                       <div className="mt-4">
-                         <img 
-                           src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Queen_Elizabeth_II_Jubilee_1977.jpg/800px-Queen_Elizabeth_II_Jubilee_1977.jpg"
-                           alt="Jubileu de Prata 1977 - Rainha Elizabeth II em evento formal com bolo"
-                           className="w-full h-48 object-cover rounded-lg"
-                         />
-                       </div>
-                     )}
-                                         {event.year === '2012' && (
-                       <div className="mt-4">
-                         <img 
-                           src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Queen_Elizabeth_II_2012.jpg/800px/Queen_Elizabeth_II_2012.jpg"
-                           alt="Jubileu de Diamante 2012 - Rainha Elizabeth II em veículo com chapéu verde-menta"
-                           className="w-full h-48 object-cover rounded-lg"
-                         />
-                       </div>
-                     )}
+                    
+                    
                   </div>
                 </div>
 
